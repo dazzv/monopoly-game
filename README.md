@@ -1,5 +1,11 @@
-# monopoly_game
+# Monopoly Russian Cities
+
+![Monopoly game image](https://raw.githubusercontent.com/dazzv/monopoly-game/main/home.PNG)
+
 ![Monopoly game image](https://raw.githubusercontent.com/dazzv/monopoly-game/main/dazzv-monopoly.PNG)
+
+![Monopoly game image](https://raw.githubusercontent.com/dazzv/monopoly-game/main/dazzv-monopoly2.PNG)
+
 ## Project setup
 ```
 npm install
