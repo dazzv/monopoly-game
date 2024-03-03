@@ -1,5 +1,5 @@
 # monopoly_game
-![Monopoly game image](https://raw.githubusercontent.com/dazzv/monopoly-game/blob/main/dazzv-monopoly.PNG)
+![Monopoly game image](https://raw.githubusercontent.com/dazzv/monopoly-game/main/dazzv-monopoly.PNG)
 ## Project setup
 ```
 npm install
